@@ -4,4 +4,3 @@
 * CREATE TABLE crossdatatest.t1(id INT PRIMARY KEY, user VARCHAR);
 * CREATE TABLE crossdatatest.t2(name VARCHAR PRIMARY KEY, total INT);
 * SELECT * FROM ingestion.lines WHERE lucene = '{ filter: {type: "fuzzy", field: "product", value: "strops"} }' LIMIT 2;
-* 
