@@ -1,4 +1,14 @@
-# crossdata-training
+# Crossdata Training
+
+## Documentation
+
+https://stratio.atlassian.net/wiki/display/CROSSDATA1x0/Home
+
+## Crossdata Zeppelin
+
+https://s3-eu-west-1.amazonaws.com/crossdata/crossdata-zeppelin.tar.gz
+
+## Elasticsearch
 
 curl -XGET 'http://localhost:9200/_nodes?pretty=true'
 
