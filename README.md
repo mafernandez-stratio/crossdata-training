@@ -6,7 +6,8 @@ https://stratio.atlassian.net/wiki/display/CROSSDATA1x0/Home
 
 ## Crossdata Zeppelin
 
-https://s3-eu-west-1.amazonaws.com/crossdata/crossdata-zeppelin.tar.gz
+https://s3-eu-west-1.amazonaws.com/crossdata/zeppelin-crossdata.tar.gz
+-[https://s3-eu-west-1.amazonaws.com/crossdata/crossdata-zeppelin.tar.gz]
 
 ## Elasticsearch
 
